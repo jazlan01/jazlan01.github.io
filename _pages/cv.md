@@ -11,54 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, **University of California Davis**, _(expected 2029)_
+* BSc. in Computer Science, **Lahore University of Management Sciences**, _2024_
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Graduate Student Researcher @ UCD**
+  * Working on anti-tracking using advanced techniques
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Assistant @ LUMS**
+  * Worked on a low-latency datastore optimzed for Multi Access Edge Computing
+  * Lab Lead for a research project on a Cognitive Study of current LLMs.
+  * Worked on developing an LSTM model for Handover and Base Station Prediction, achieving 97%+ accuracy on
+a High Speed Rail Dataset.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Bioinformatics Research Intern @ LUMS**
+  * Worked on optimization of TISON, a tumor simulation software, including software architecture and HPC
+  * Wrote multiple proposals for grants in addition to carrying out extensive literature review
+  * Developed a data pipeline for fMRI and MRI data
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Teaching Assistant @ UCD**
+  * ECS 152A - Introduction to Networks
+
+* **Course Design @ LUMS**
+  * CS200 - Worked alongside Dr Zartash Afzal Uzmi to develop a course for Fall 2024 @ LUMS
+
+* **Teaching Assistant @ LUMS**
+  * CS382 - Network Centric Computing (Spring 2024)
+  * CS370 - Operating Systems (Fall 2023)
+  * CS382 - Network Centric Computing (Spring 2023)
+  * CS200 - Introduction to Programming (Fall 2022)
+  * CS210 - Discrete Mathematics (Fall 2022)

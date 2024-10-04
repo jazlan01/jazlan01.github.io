@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jazlan's Academic Website"
+title                    : "Muhammad Jazlan"
 title_separator          : "-"
 name                     : &name "Muhammad Jazlan"
 description              : &description "PhD student in Computer Science at the University of California, Davis"
@@ -21,8 +21,8 @@ repository               : "jazlan01/jazlan01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Jazlan"
+  avatar           : "bio-photo.png"
+  name             : "Muhammad Jazlan"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Computer Science at the University of California, Davis, working on anti-tracking and privacy-preserving networks and systems."
   location         : "Davis, California"
@@ -75,8 +75,6 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
@@ -86,7 +84,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
