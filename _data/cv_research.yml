@@ -1,0 +1,18 @@
+- position: "Graduate Student Researcher"
+  institution: "University of California, Davis"
+  period: "2024 - Present"
+  type: "highlight"
+  achievements:
+    - "Developing advanced anti-tracking frameworks for web privacy"
+    - "Researching privacy-preserving network protocols and systems"
+    - "Conducting measurements to quantify privacy risks in the wild"
+
+- position: "Research Assistant"
+  institution: "Lahore University of Management Sciences"
+  period: "2022 - 2024"
+  type: "normal"
+  achievements:
+    - "Developed a low-latency datastore optimized for Multi-Access Edge Computing (MEC)"
+    - "Led a cognitive study research project analyzing current Large Language Models (LLMs)"
+    - "Built an LSTM model for handover and base station prediction achieving 97%+ accuracy on High Speed Rail dataset"
+    - "Optimized network performance in mobile environments through predictive algorithms" 

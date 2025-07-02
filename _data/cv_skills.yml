@@ -1,0 +1,8 @@
+- category: "Programming Languages"
+  skills: "Python, C/C++, Java, JavaScript, Go"
+
+- category: "Machine Learning"
+  skills: "TensorFlow, PyTorch, Unsloth, LoRA, Large Language Models"
+
+- category: "Systems & Tools"
+  skills: "Linux, Docker, Git, Cloud Computing" 

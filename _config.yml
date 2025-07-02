@@ -24,7 +24,7 @@ author:
   avatar           : "bio-photo.png"
   name             : "Muhammad Jazlan"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Computer Science at the University of California, Davis, working on anti-tracking and privacy-preserving networks and systems."
+  bio              : "PhD student in Computer Science at UC Davis, researching anti-tracking frameworks and privacy-preserving networks."
   location         : "Davis, California"
   employer         : "University of California, Davis"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # Username - Add your LinkedIn username when you have one
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -82,7 +82,7 @@ publication_category:
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
@@ -215,9 +215,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -225,17 +222,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -261,15 +247,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
