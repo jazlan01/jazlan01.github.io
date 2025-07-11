@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "`whoami`"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,7 @@ I am a first-year PhD student in **Computer Science** at the [University of Cali
 
 I'm advised by [Prof. Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/) and [Prof. Alexander Gamero-Garrido](https://www.gamero-garrido.com).
 
-### 🎓 **Background**
+###  **Background**
 Prior to UC Davis, I completed my undergraduate studies at [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/), where I worked on systems research under the guidance of [Prof. Zafar Qazi](https://web.lums.edu.pk/~zafar/) and [Prof. Ihsan Qazi](https://www.ihsanqazi.com). My undergraduate research focused on building systems to improve edge latency in the 5G control plane.
 
 ## Recent News
@@ -38,13 +38,13 @@ Prior to UC Davis, I completed my undergraduate studies at [Lahore University of
 
 
 
-## 🏎️ **Beyond Research**
+## **Interests**
 
-When I'm not debugging network protocols or analyzing privacy frameworks, you'll find me:
+Beyond research, I am interested in:
 
-- **🏁 Formula 1 Enthusiast** - Weekends are for race analysis (don't try reaching me during race hours!)
-- **📱 Tech Explorer** - Following the latest developments in mobile and server technologies
-- **🌐 Systems Tinkerer** - Always curious about how complex systems work under the hood
+- **Formula 1** - Weekends are for race analysis (don't try reaching me during race hours!)
+- **Cars and Driving** - I love driving! Currently driving a 2011 Prius around Davis, CA.
+- **Tech** - Always following the latest in Tech.
 
 <style>
 .hero-section {
