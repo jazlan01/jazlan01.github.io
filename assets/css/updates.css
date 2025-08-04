@@ -1,0 +1,29 @@
+.updates-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.update-item {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.update-date {
+  flex: 0 0 150px; /* Adjust the width of the date column as needed */
+  font-weight: bold;
+  color: #555;
+}
+
+.update-text {
+  flex: 1;
+}
+
+/* Update title and description styling */
+.update-title {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.update-desc {
+  color: #333;
+  margin: 0;
+}
